@@ -1,5 +1,5 @@
 # Draken-Termux
-#### BOT REPO (`https://github.com/Toxic1239/Draken-Md-Bug`) 
+#### [BOT REPO](https://github.com/Toxic1239/Draken-Md-Bug) 
 
 #### TERMUX DEPLOYMENT
 DEPLOYMENT ON TERMUX
